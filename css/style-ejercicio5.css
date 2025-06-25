@@ -1,0 +1,73 @@
+.ejercicio5 {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    background-image: url("../img/topography.svg"), linear-gradient(to right, #E04E6E, #804ABC);
+    padding: 10px;
+    gap: 10px;
+}
+
+[class^="box-"] {
+    background-color: #F6C844;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.box-6 {
+    background-color: #6F94E6;
+    grid-column: span 6;
+    grid-row: 2;
+}
+
+.box-8 {
+    background-color: #ED6D52;
+    grid-column: span 2;
+}
+
+.box-9 {
+    background-color: #AFF8A2;
+    grid-row: span 2;
+}
+
+.box-12 {
+    background-color: #6F94E6;
+    grid-column: span 6;
+    grid-row: 3;
+}
+
+.box-16 {
+    background-color: #ED6D52;
+    grid-column: span 2;
+}
+
+.box-18 {
+    background-color: #A5CC4F;
+    grid-column: 5 / span 6;
+    grid-row: 4 / span 2;
+}
+
+.box-24 {
+    background-color: #ED6D52;
+    grid-column: span 2;
+}
+
+.box-27 {
+    background-color: #AFF8A2;
+    grid-row: span 2;
+}
+
+.box-30 {
+    background-color: #6F94E6;
+    grid-column: span 6;
+}
+
+.box-32 {
+    background-color: #ED6D52;
+    grid-column: span 2;
+}
