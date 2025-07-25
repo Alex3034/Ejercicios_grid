@@ -1,8 +1,8 @@
-# Taco Joint - Landing Page
+# Terry's Taco Joint
 
 ![Taco Joint Preview](img/preview.png)
 
-Bienvenido a **Taco Joint**, una landing page moderna y colorida creada para practicar **HTML** y **CSS**. Este proyecto simula la página principal de un restaurante de tacos, mostrando su menú, especialidades, precios y una galería de imágenes estilo Instagram.
+Bienvenido a **Terry's Taco Joint**, una landing page moderna y colorida creada para practicar **HTML** y **CSS**. Este proyecto simula la página principal de un restaurante de tacos, mostrando su menú, especialidades, precios y una galería de imágenes estilo Instagram.
 
 ## 🌮 Características
 
